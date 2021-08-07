@@ -3,7 +3,7 @@
 ### Hope you are doing great today!!
 #### Feel free to roam around and don't forget to chekout my repositories, it ain't much but I still thinks its great work xD. 
 
-I am an Engineering student at NSUT Dwarka, India in Electrical Engineering. For the most part I have been focusing on Data-Strucutres and Algorithms and I think I am pretty good at it too. Open to all working opportunites for projects big and small. Mail me on deyol.anurag999@gmail.com or checkout my LinkedIn Profile : [https://www.linkedin.com/in/anurag-deyol-7392a8131](https://www.linkedin.com/in/anurag-deyol-7392a8131)
+I am an Engineering student at NSUT Dwarka in Electrical Engineering. For the most part I have been focusing on Data-Strucutres and Algorithms and I think I am pretty good at it too. Open to all working opportunites for projects big and small. Mail me on deyol.anurag999@gmail.com or checkout my LinkedIn Profile : [https://www.linkedin.com/in/anurag-deyol-7392a8131](https://www.linkedin.com/in/anurag-deyol-7392a8131)
 
 Also if you are into Rocket League then send me a friend request on Epic Games at id : anCoderr. Cool name right??
 
