@@ -5,7 +5,7 @@
 
 I am an Engineering student at NSUT Dwarka in Electrical Engineering. For the most part I have been focusing on Data-Strucutres and Algorithms and I think I am pretty good at it too. Open to all working opportunites for projects big and small. Mail me on deyol.anurag999@gmail.com or checkout my LinkedIn Profile : [https://www.linkedin.com/in/anurag-deyol-7392a8131](https://www.linkedin.com/in/anurag-deyol-7392a8131)
 
-Do checkout my [DataStructures_and_Algorithms_InJAVA](https://github.com/anCoderr/DataStructures_and_Algorithms_InJAVA) repo for DataStructures and Algorithms in JAVA and my [leetcodeSolutions](https://github.com/anCoderr/leetcodeSolutions) repo for solutions to programming questions on Leetcode.
+Do checkout my [DataStructures_and_Algorithms_Programming](https://github.com/anCoderr/DataStructures_Algorithms_Programming) repo for DataStructures, Algorithms and programming in JAVA and PYTHON.
 
 Also if you are into Rocket League then send me a friend request on Epic Games at id : anCoderr. Cool name right??
 
