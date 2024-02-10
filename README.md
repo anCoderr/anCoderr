@@ -1,11 +1,12 @@
 ## Hi there 👋
 
-### Hope you are doing great today!!
-#### Feel free to roam around and don't forget to chekout my repositories, it ain't much but I still thinks its great work xD. 
+### Hope you'll are doing great!!
 
-I am an Engineering student at NSUT Dwarka in Electrical Engineering. For the most part I have been focusing on Data-Strucutres and Algorithms and I think I am pretty good at it too. Open to all working opportunites for projects big and small. Mail me on deyol.anurag999@gmail.com or checkout my LinkedIn Profile : [https://www.linkedin.com/in/anurag-deyol-7392a8131](https://www.linkedin.com/in/anurag-deyol-7392a8131)
+This is Anurag Deyol, working as software developer for ION Group and currently involved with working on digital banking systems.
 
-Do checkout my [DataStructures_and_Algorithms_Programming](https://github.com/anCoderr/DataStructures_Algorithms_Programming) repo for DataStructures, Algorithms and programming in JAVA and PYTHON.
+I hold my bachelors in Electrical Engineering from NSUT Dwarka.
+
+I'm always open to discussing new opportunities, collaborations, or sharing insights on technology and engineering. Feel free to reach out to me via [email](deyol.anurag999@gmail.com) or connect with me on LinkedIn: [Anurag Deyol](https://www.linkedin.com/in/anurag-deyol-7392a8131).
 
 Also if you are into Rocket League then send me a friend request on Epic Games at id : anCoderr. Cool name right??
 
